@@ -1,4 +1,4 @@
-package com.yas.droidui;
+package com.yas.justdoit;
 
 import org.junit.Test;
 

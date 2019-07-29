@@ -1,4 +1,4 @@
-package com.yas.droidui;
+package com.yas.justdoit;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.yas.droidui", appContext.getPackageName());
+        assertEquals("com.yas.justdoit", appContext.getPackageName());
     }
 }
